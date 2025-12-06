@@ -7,7 +7,7 @@
 **📫 Contact:**  
 - Email: amansingh36b@gmail.com<!-- replace with your email -->
 - LinkedIn: https://www.linkedin.com/in/aman-kumar-106285309/ <!-- replace -->
-- Portfolio: https://your-portfolio.example.com <!-- optional -->
+- Portfolio: https://github.com/aman00-dev/portfolio  <!-- optional -->
 
 ---
 
