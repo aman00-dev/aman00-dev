@@ -43,8 +43,10 @@
 
 ---
 
-## 📈 GitHub Stats
-<!-- these images auto-update; replace USERNAME below -->
-![Aman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aman00-devE&show_icons=true&count_private=true&theme=tokyonight)
+### 📊 GitHub Stats
+
+![Aman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aman00-dev&show_icons=true&count_private=true&theme=tokyonight)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aman00-dev&layout=compact&theme=tokyonight)
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=aman00-dev&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=aman00-dev&theme=tokyonight)
