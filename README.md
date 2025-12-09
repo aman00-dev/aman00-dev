@@ -46,7 +46,7 @@
 
 👉 **Click to view detailed repositories**
 
-- 🐧 [linux-commands-practice](https://github.com/aman00-dev/linux-commands-practice) — Linux admin commands & examples  
+- 🐧 [Project](https://github.com/aman00-dev/project#) — Personal protfolio for ci-cd pipeline
 - ☁ [aws-s3-demo](https://github.com/aman00-dev/aws-s3-demo) — S3 static site, bucket policies, automation  
 - 🐳 [docker-notes](https://github.com/aman00-dev/docker-notes) — Dockerfiles & docker-compose examples  
 - ☁ [terraform-examples](https://github.com/aman00-dev/terraform-examples) — EC2, VPC infra setup using Terraform  
