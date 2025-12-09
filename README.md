@@ -48,7 +48,7 @@
 
 - 🐧 [Project](https://github.com/aman00-dev/project#) — Personal protfolio for ci-cd pipeline
 - ☁ [aws-s3-demo](https://github.com/aman00-dev/aws-s3-demo) — S3 static site, bucket policies, automation  
-- 🐳 [docker-notes](https://github.com/aman00-dev/docker-notes) — Dockerfiles & docker-compose examples  
+- 🐳 [docker_project](https://github.com/aman00-dev/docker_project) — Dockerfiles & nginx , html webpage
 - ☁ [terraform-examples](https://github.com/aman00-dev/terraform-examples) — EC2, VPC infra setup using Terraform  
 - 🌐 [portfolio](https://github.com/aman00-dev/portfolio) — Professional portfolio (GitHub Pages hosted)
 
