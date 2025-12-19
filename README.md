@@ -46,7 +46,7 @@
 👉 **Click to view detailed repositories**
 
 - 🚀 [Project](https://github.com/aman00-dev/project) – Personal portfolio for CI/CD pipeline  
-- ☁️ [aws-s3-demo](https://github.com/aman00-dev/aws-s3-demo) – S3 static website, bucket policies, automation  
+- ☁️ [aws-s3-demo](https://github.com/aman00-dev/aws-s3-static-website.git) – S3 static website, bucket policies, automation  
 - 🐳 [docker-project](https://github.com/aman00-dev/docker-nginx-html-project.git) – Dockerfiles, Nginx, HTML webpage  
 - 🧱 [terraform-aws-ec2-infra](https://github.com/aman00-dev/terraform-aws-ec2-infra) – AWS EC2 infrastructure provisioning using Terraform (EC2, Security Group, Elastic IP)  
 - 🌐 [portfolio](https://github.com/aman00-dev/portfolio) – Professional portfolio (GitHub Pages hosted)
