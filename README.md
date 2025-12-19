@@ -41,16 +41,15 @@
 ![MySQL](https://img.shields.io/badge/MySQL-00618A?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
-
-## 📂 Featured DevOps Projects
+## 🧰 Featured DevOps Projects
 
 👉 **Click to view detailed repositories**
 
-- 🐧 [Project](https://github.com/aman00-dev/project#) — Personal protfolio for ci-cd pipeline
-- ☁ [aws-s3-demo](https://github.com/aman00-dev/aws-s3-demo) — S3 static site, bucket policies, automation  
-- 🐳 [docker_project](https://github.com/aman00-dev/docker_project) — Dockerfiles & nginx , html webpage
-- ☁ [terraform-examples](https://github.com/aman00-dev/terraform-examples) — EC2, VPC infra setup using Terraform  
-- 🌐 [portfolio](https://github.com/aman00-dev/portfolio) — Professional portfolio (GitHub Pages hosted)
+- 🚀 [Project](https://github.com/aman00-dev/project) – Personal portfolio for CI/CD pipeline  
+- ☁️ [aws-s3-demo](https://github.com/aman00-dev/aws-s3-demo) – S3 static website, bucket policies, automation  
+- 🐳 [docker-project](https://github.com/aman00-dev/docker-project) – Dockerfiles, Nginx, HTML webpage  
+- 🧱 [terraform-aws-ec2-infra](https://github.com/aman00-dev/terraform-aws-ec2-infra) – AWS EC2 infrastructure provisioning using Terraform (EC2, Security Group, Elastic IP)  
+- 🌐 [portfolio](https://github.com/aman00-dev/portfolio) – Professional portfolio (GitHub Pages hosted)
 
 ---
 
